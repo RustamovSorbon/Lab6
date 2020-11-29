@@ -1,2 +1,3 @@
 # Project exclude paths
+git commit --amend -m "New commit message"
 /out/
